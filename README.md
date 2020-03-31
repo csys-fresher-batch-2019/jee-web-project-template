@@ -4,6 +4,9 @@
 - [ ] Check your mail and accept Github Repository invitation for edit access.
 - [ ] Clone your project github repository 
 - [ ] Import Project in Eclipse
+- [ ] Configure Tomcat Server in Eclipse
+- [ ] Run Web Application
+- [ ] Test Web Application
 
 
 #### Step 1: Clone Repository
